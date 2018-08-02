@@ -1,2 +1,2 @@
 # hello-world
-My first practice project on Github!
+My first practice test on Github!
